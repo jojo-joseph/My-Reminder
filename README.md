@@ -1,2 +1,2 @@
 # My-Reminder
-It simple Reminder app
+It simple Reminder app in Java
